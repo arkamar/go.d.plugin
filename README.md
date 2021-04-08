@@ -22,7 +22,7 @@ Shipped with [`Netdata`](https://github.com/netdata/netdata).
 
 ## Contributing
 
-If you have time and willing to help, there are a lof of ways to contribute:
+If you have time and willing to help, there are a lot of ways to contribute:
 
 -   Fix and [report bugs](https://github.com/netdata/go.d.plugin/issues/new)
 -   [Review code and feature proposals](https://github.com/netdata/go.d.plugin/pulls)
